@@ -34,7 +34,7 @@
         "Confirm Practice": "Übungsmodus bestätigen",
         "Confirm Restart": "Neustart bestätigen",
         "StartPos Switcher": "Startpositionschalter",
-        "Opacity:": "Drekkraft",
+        "Opacity:": "Deckkraft",
         "Smart StartPos": "Smarte Startposition",
         "Custom Respawn Time": "Benutzerdefinierte Respawn-Zeit",
         "Delay:": "Verzögerung",
@@ -72,7 +72,7 @@
         "Conditional Auto-Retry": "Bedingter Autoneustart",
         "Auto Practice Mode": "Autoübungsmodus",
         "Kill at %": "Töten bei %",
-        "Percent:": "Percent:",
+        "Percent:": "Procent:",
         "Time:": "Zeit:",
         "Jump Hack": "Springhack",
         "Pause Countdown": "Pauscountdown",
@@ -340,6 +340,6 @@
         "Hides the button to open the menu, use the <cl>Tab</c> or <cl>Insert</c> key to open the mod menu": "Blendet den Menuöffnungsknopf aus, benutze die <cl>Tab</c> oder <cl>Einfügen</c> Taste um das Modmenü zu öffnen",
         "Allow dragging the ball on screen": "Erlaubt den Balls über den Bildschirm zu ziehen",
         "Saves the position of the ball on screen between sessions": "Speichert die Position des Balls auf dem Bildschirm zwischen Sitzungen",
-        "Makes the mod menu button fade instantly": "Lässt die Modmenuknopf sofort verblassen"
+        "Makes the mod menu button fade instantly": "Lässt die Modmenuknopf sofort ausblenden"
     }
 }
