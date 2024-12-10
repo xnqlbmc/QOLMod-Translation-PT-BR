@@ -1,7 +1,18 @@
 {
     "Korean": "TODO",
     "한국어": "TODO",
-    "contributors": [],
+    "contributors": [
+    {
+        "username": "Speedyfriend67",
+        "account-id": 11228005,
+        "icon-id": 373,
+        "primary-col": 12,
+        "secondary-col": 98,
+        "glow-enabled": true,
+        "glow-col": 12,
+        "death-effect-id": 3
+    }
+],
     "strings": {
         "Level": "레벨",
         "Universal": "유니버설",
