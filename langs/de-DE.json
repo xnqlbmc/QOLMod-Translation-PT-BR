@@ -24,7 +24,7 @@
         "Config": "Konfiguration",
         "Noclip": "Noclip",
         "Tint on death": "Tönung beim Tod",
-        "Tint Opacity:": "Tönungsdrekkraft",
+        "Tint Opacity:": "Tönungsdeckkraft",
         "Tint Colour:": "Tönungsfarbe",
         "Minimum Accuracy": "Mindestgenauigkeit",
         "Min Accuracy:": "Min Genauigkeit",
@@ -49,7 +49,7 @@
         "Hitbox Trail": "Hitboxpfad",
         "Thicker Outline": "stärkere Kontur",
         "Fill Hitbox": "Hitbox füllen",
-        "Fill Opacity:": "Hitboxdrekkraft",
+        "Fill Opacity:": "Hitboxdeckkraft",
         "Show Hitboxes On Death": "Hitboxen beim Tod anzeigen",
         "Force Platformer": "Platformer erzwingen",
         "Coin Finder": "Mümzensucher",
@@ -338,7 +338,7 @@
         "Adds borders to the left and right sides of the mod menu to make the menu look better with some texture packs\nlike the <cg>npesta</c> pack": "Fügt Ränder auf der linken und rechten Seite des Modmenüs hinzu, damit das Menü mit einigen Texturpaketen, z.B. <cg>npesta</c>-Paket, besser aussieht",
         "Blurs the background of the mod menu": "Verwischt den Hintergrund des Modmenüs",
         "Hides the button to open the menu, use the <cl>Tab</c> or <cl>Insert</c> key to open the mod menu": "Blendet den Menuöffnungsknopf aus, benutze die <cl>Tab</c> oder <cl>Einfügen</c> Taste um das Modmenü zu öffnen",
-        "Allow dragging the ball on screen": "Erlaubt den Balls über den Bildschirm zu ziehen",
+        "Allow dragging the ball on screen": "Erlaubt den Ball über den Bildschirm zu ziehen",
         "Saves the position of the ball on screen between sessions": "Speichert die Position des Balls auf dem Bildschirm zwischen Sitzungen",
         "Makes the mod menu button fade instantly": "Lässt die Modmenuknopf sofort ausblenden"
     }
