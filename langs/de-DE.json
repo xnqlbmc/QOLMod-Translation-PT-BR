@@ -98,7 +98,7 @@
         "No Static Camera": "Keine Statische Kamera",
         "Legacy Upside Down Physics": "Alte Kopfüberphysik",
         "Icon Kit in Pause": "Iconkit im Pausenmenü",
-        "Practice Music Sync": "Übungsmusiksynbchronisation",
+        "Practice Music Sync": "Übungsmusiksynchronisation",
         "Unlock All Icons": "Alle icons entsperren",
         "Music Customiser Bypass": "Musikanpassungsumgehung",
         "Fire in the hole!": "Feuer in dem Loch!",
@@ -216,7 +216,7 @@
         "Draws a line to secret / user coins in the level": "Malt eine Linie zu Geheim-/Benutzermünzen",
         "Disables mirror portals, only bad players use this": "Schaltet Spiegelportale aus, nur Spieler*innen, die keine Kopfschemrzen haben wollen, nutzen diese Option.",
         "Makes the mirror portal transition instant": "Macht die Spiegelportaltransition sofortig",
-        "Allows you to have any amount of decimal places in your percentage text": "Erlaubt dir, jegliche Anyahl an Dezimalstellen in deinem Prozentsatztext zu haben",
+        "Allows you to have any amount of decimal places in your percentage text": "Erlaubt dir, jegliche Anzahl an Dezimalstellen in deinem Prozentsatztext zu haben",
         "Percentage is calculated like in 2.1, The percentage for new best is still calculated like 2.2": "Prozentsatz wird wie in 2.1 berechnet, der Prozentsatz für neuen Rekord wird immer noch wie in 2.2 berechnet.",
         "Shows the layout of the level, its as <cr>shrimple</c> as that": "Zeigt den Grundriss für das Level. An dieser Stelle ist in der Englishen Version ein Wortspiel, das nicht auf Deutch funktioniert, also nehmen Wir Uns die gelegenheit, dir einen schönen Tag zu Wünschen, außerdem, Trans Rechte! <cr>Sprich</c>",
         "Keeps the 2.2 camera triggers in the level": "Lässt die 2.2 Kameraauslöser im Level",
@@ -249,7 +249,7 @@
         "Disables static camera": "Deaktiviert die statische Kamera",
         "Forces the level to have the upside down <cl>gravity bug</c> from before <cc>2.2</c>": "Erzwingt, dass der Level den Kopfüber<cl>Schwerkraft-Bug</c> von vor <cc>2.2</c> hat",
         "Adds a button to open the icon kit in the pause menu": "Fügt einen Knopf zum Öffnen des Icon-Kits im Pausenmenü hinzu",
-        "Unlocks the Practice Music Sync button in the pause menu options": "Entsperrt den Übnungsmusikscynchronisationsknopg in den Optionen des Pausmenüs",
+        "Unlocks the Practice Music Sync button in the pause menu options": "Entsperrt den Übungsmusiksynchronisationsknopf in den Optionen des Pausenmenüs",
         "It... Unlocks all the icons, You should know what this does": "Es… entsperrt alle Icons, was soll man da noch sagen",
         "Unlocks the menu and practice music buttons": "Schaltet die Menü- Übungsmusikknöpfe frei",
         "Replaces every single sfx with\n<cr>FIRE IN THE HOLE!</c>": "Ersetzt alle Effektgeräusche mit\n<cr>FEUER IN DEM LOCH!</c>",
@@ -340,6 +340,6 @@
         "Hides the button to open the menu, use the <cl>Tab</c> or <cl>Insert</c> key to open the mod menu": "Blendet den Menüöffnungsknopf aus, benutze die <cl>Tab</c> oder <cl>Einfügen</c> Taste um das Modmenü zu öffnen",
         "Allow dragging the ball on screen": "Erlaubt den Ball über den Bildschirm zu ziehen",
         "Saves the position of the ball on screen between sessions": "Speichert die Position des Balls auf dem Bildschirm zwischen Sitzungen",
-        "Makes the mod menu button fade instantly": "Lässt den Modmenpknopf sofort ausblenden"
+        "Makes the mod menu button fade instantly": "Lässt den Modmenüknopf sofort ausblenden"
     }
 }
