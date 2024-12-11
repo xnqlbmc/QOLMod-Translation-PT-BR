@@ -10,7 +10,7 @@
             "secondary-col": 83,
             "glow-enabled": true,
             "glow-col": 16,
-            "death-effect-id": Unsure
+            "death-effect-id": 1
         }
     ],
     "strings": {
