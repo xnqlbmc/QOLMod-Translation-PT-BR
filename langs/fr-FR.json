@@ -16,11 +16,11 @@
             "username": "Charmillya",
             "account-id": 7659350,
             "icon-id": 379,
-            "primary-col": 13,
+            "primary-col": 12,
             "secondary-col": 8,
             "glow-enabled": true,
-            "glow-col": 8,
-            "death-effect-id": 1
+            "glow-col": 43,
+            "death-effect-id": 8
         }
     ],
     "strings": {
