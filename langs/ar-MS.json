@@ -3,16 +3,6 @@
     "display_name_native": "العربية (الفصحى)",
     "contributors": [
         {
-            "username": "Gild56",
-            "account-id": 18015798,
-            "icon-id": 35,
-            "primary-col": 5,
-            "secondary-col": 12,
-            "glow-enabled": true,
-            "glow-col": 12,
-            "death-effect-id": 20
-        },
-        {
             "username": "Adamorocco",
             "account-id": 25682776,
             "icon-id": 35,
@@ -21,6 +11,17 @@
             "glow-enabled": true,
             "glow-col": 12,
             "death-effect-id": 14
+        },
+        {
+
+            "username": "Gild56",
+            "account-id": 18015798,
+            "icon-id": 35,
+            "primary-col": 5,
+            "secondary-col": 12,
+            "glow-enabled": true,
+            "glow-col": 12,
+            "death-effect-id": 20
         }
     ],
     "strings": {
@@ -55,7 +56,7 @@
         "Passable Colour:": "لون مقبول:",
         "Interactable:": "قابل للتفاعل:",
         "Player:": "اللاعب:",
-        "Player (Rotated):": "اللاعب (بالتناوب):",
+        "Player (Rotated):": "(اللاعب (بالتناوب:",
         "Hitbox Trail": "أثر هيبوكس",
         "Thicker Outline": "مخطط تفصيلي أكثر سمكاً",
         "Fill Hitbox": "ملء هيطبوكس",
