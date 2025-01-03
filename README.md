@@ -52,14 +52,6 @@ An example credits is this:
 ],
 ```
 
-### Additional Info
-For languages that use **right-to-left**, like Arabic, put this json code
-```json
-"right-to-left": true,
-```
-somewhere at the top of the files, like right after the `"display_name_native": "...",`.
-This tells the [qolmod client](path to the code :3) to reverse the text on every line.
-
 ### Thank you!
 Thank you for helping contribute to QOLMod.
 This means a lot and without **YOUR** help translations would not have been possible.
