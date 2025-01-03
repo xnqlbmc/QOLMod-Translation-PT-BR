@@ -52,6 +52,12 @@ An example credits is this:
 ],
 ```
 
+### Additional Info
+For languages that use **right-to-left**, like Arabic, put this json code
+```json
+"right-to-left": true,
+```
+somewhere at the top of the files, like right after the `"display_name_native": "...",`
 
 ### Thank you!
 Thank you for helping contribute to QOLMod.
