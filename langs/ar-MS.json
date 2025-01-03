@@ -1,6 +1,7 @@
 {
     "display_name_english": "Arabic (MSA)",
     "display_name_native": "العربية (الفصحى)",
+    "right-to-left": true,
     "contributors": [
         {
             "username": "Adamorocco",
