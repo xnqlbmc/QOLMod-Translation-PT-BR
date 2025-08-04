@@ -1,6 +1,6 @@
 # Translations
 Translations for [QOLMod](https://github.com/TheSillyDoggo/GeodeMenu/).
-**pt-BR.json** file is located [here](https://github.com/xnqlbmc/QOLMod-Translation-PT-BR/blob/main/langs/pt-BR.json).
+    **pt-BR.json** file is located [here](https://github.com/xnqlbmc/QOLMod-Translation-PT-BR/blob/main/langs/pt-BR.json).
 
 ## File names:
 File names are set to `bo-OB.json`, where:
